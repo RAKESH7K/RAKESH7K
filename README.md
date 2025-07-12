@@ -4,7 +4,7 @@ Post Graduate in Electronics and Communication
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJpNG1heHZhZzB2aWg1NW0zYzhqeDA5ZGQybml0YXlmYnp4bjBvbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDeTxp6777walgR0NW/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 Exploring Technology 🛠️ Sharpening Skills 🚀 Ready for New Challenges
-- 🎓 Post Graduation in Electronics and Communication from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
+- 🎓 Graduated from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
 - 🧠 Exploring new tools, frameworks, and possibilities every day 
 - 🛠️ Learning, Building & Growing in the World of Tech 
 - ⚡ Fun fact: I learn best by breaking things — then fixing them.
