@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Rakesh
 
-Post Graduate on Electronics and Communication
+Post Graduate in Electronics and Communication
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJpNG1heHZhZzB2aWg1NW0zYzhqeDA5ZGQybml0YXlmYnp4bjBvbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDeTxp6777walgR0NW/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 Exploring Technology 🛠️ Sharpening Skills 🚀 Ready for New Challenges
