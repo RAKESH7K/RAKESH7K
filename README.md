@@ -37,7 +37,7 @@ Post Graduate in Electronics and Communication
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAKESH7K&show_icons=true&hide=issues&hide_rank=false&count_private=true&theme=github_dark)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Rakesh7K?theme=dark&font=Corben&ext=contest)
 
 [![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAKESH7K&bg_color=090105&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
