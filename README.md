@@ -2,7 +2,7 @@
 
 Post Graduate in Electronics and Communication
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJpNG1heHZhZzB2aWg1NW0zYzhqeDA5ZGQybml0YXlmYnp4bjBvbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDeTxp6777walgR0NW/giphy.gif">
-- 🔭 Here's my [portfolio](https://portfolio-brown-nu-52.vercel.app/)                                                 
+- 🔭 Here's my [portfolio](https://vercel.com/rakesh-ks-projects-73365e3e/portfolio/Cw5vKYVD7fiUncpUt5azymbvjTfa)                                                 
 - 🌱 Exploring Technology 🛠️ Sharpening Skills 🚀 Ready for New Challenges
 - 🎓 Graduated from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
   
